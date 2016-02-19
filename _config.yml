@@ -1,7 +1,7 @@
 name: Florian Uhlemann
 favicon: null
-layout_spectrum: 0.2098996
-typography_spectrum: 0.5170213
+layout_spectrum: 1
+typography_spectrum: 0.52784
 title: Florian Uhlemann
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.609495
-  lightness: 0.7744681
-  saturation: 0.3638298
+    - '#171717'
+    - '#dda244'
+    - '#7a5c2d'
+    - '#544123'
+    - '#b7863a'
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.25
   rhythmicContrast: 1
 purpose: []
