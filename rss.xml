@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Florian Uhlemann]]></title>
+        <description><![CDATA[Florian Uhlemann]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 08:52:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Professionelle Fotografie]]></title>
+            <description><![CDATA[<article><h1>Professionelle Fotografie</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6b00d089be4aed01f96c0f7bc7dcf71de99c2c1.jpg"></article>]]></description>
+            <link>undefined5a8d3007-63e5-44f1-ad9a-a8690ace9436/index.html</link>
+            <guid isPermaLink="false">5a8d3007-63e5-44f1-ad9a-a8690ace9436</guid>
+            <pubDate>Fri, 19 Feb 2016 08:52:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
